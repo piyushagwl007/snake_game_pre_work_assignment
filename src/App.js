@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App">Basic Setup</div>;
+  return <div className="App">Basic Setup Test</div>;
 }
 
 export default App;
